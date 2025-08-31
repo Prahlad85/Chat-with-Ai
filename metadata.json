@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Creative Assistant",
+  "description": "A versatile AI assistant powered by the Gemini API. It features a conversational chat, an AI image generator, and a text summarizer, all wrapped in a sleek, modern interface.",
+  "requestFramePermissions": []
+}
